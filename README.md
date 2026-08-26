@@ -4,7 +4,7 @@
 
 I work at the intersection of **LLMs, RAG, AI agents, ML systems, and backend engineering**.
 
-I'm interested in building AI systems that go beyond the prototype — with reliability, evaluation, and production constraints in mind.
+I build and experiment with AI systems at the intersection of LLMs, RAG, AI agents, ML systems, and backend engineering.
 
 ---
 
