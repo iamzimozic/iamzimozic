@@ -1,4 +1,4 @@
-# Hey, I'm Sushrut 
+# Hey, I'm Sushrut 👋
 
 ### AI Engineer building production-oriented AI systems.
 
