@@ -43,4 +43,4 @@ Building, experimenting, contributing to open source, and looking for opportunit
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/iamzimozic)
+[LinkedIn](https://www.linkedin.com/in/sushrut-barmate/) · [GitHub](https://github.com/iamzimozic)
