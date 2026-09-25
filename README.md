@@ -22,6 +22,9 @@ Built multi-agent RAG pipelines (LangChain, ChromaDB, Gemini, FastAPI) with sub-
 ### [ForgePilot](https://github.com/iamzimozic/forgepilot-cli): a constrained coding agent
 Turns natural-language goals into tested Python projects: **generate → validate with pytest → self-heal from tracebacks → fall back to last-known-good**. Hard LLM-call budget, exact + semantic caching, and predictable cost per run.
 
+### [StreamClip AI](https://github.com/iamzimozic/streamclip-ai)
+Turns a livestream VOD into vertical, captioned comedy clips for TikTok, YouTube Shorts and Reels. Paste a Twitch/YouTube/Kick VOD link, and it finds the funny moments, cuts ~30 second clips around them, and renders them 9:16 with the facecam on top, gameplay below, animated captions, a hook, and meme sound effects.
+
 ### [LLM Code Generation Benchmark](https://github.com/iamzimozic/LLM-Code-Generation-Benchmark): zero-shot vs RAG
 Evaluated DeepSeek-Coder, Qwen-Coder, LLaMA 3.1, and Gemini 2.5 Flash using functional tests plus Radon, Bandit, and COCOMO metrics. **Finding:** zero-shot achieved 16% higher functional test coverage than RAG on this benchmark, because retrieval overhead can hurt direct code generation.
 
