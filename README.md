@@ -34,3 +34,7 @@ Evaluated DeepSeek-Coder, Qwen-Coder, LLaMA 3.1, and Gemini 2.5 Flash using func
 
 **AI:** LLMs · RAG · AI Agents · LLM Evaluation · LlamaIndex · LangChain · HuggingFace · PyTorch
 **Engineering:** Python · FastAPI · PostgreSQL · Docker · GCP · Pytest · Git · Linux
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamzimozic)
